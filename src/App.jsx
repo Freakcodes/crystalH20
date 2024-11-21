@@ -58,7 +58,7 @@ function App() {
               whileTap={{ scale: 0.95 }}
               className="mt-8 px-8 py-3 bg-white text-blue-600 rounded-full font-semibold text-lg shadow-lg hover:bg-blue-50 transition-colors duration-300"
             >
-              Learn More
+              Coming Soon
             </motion.button>
           </motion.div>
         </div>
